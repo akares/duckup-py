@@ -1,5 +1,5 @@
-<!-- [![PyPI](https://img.shields.io/pypi/v/skreader)](https://pypi.org/project/duckup/)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/duckup)](https://pypi.org/project/duckup/) -->
+[![PyPI](https://img.shields.io/pypi/v/duckup)](https://pypi.org/project/duckup/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/duckup)](https://pypi.org/project/duckup/)
 [![CI](https://github.com/akares/duckup-py/actions/workflows/ci.yml/badge.svg)](https://github.com/akares/duckup-py/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/akares/duckup-py/branch/main/graph/badge.svg)](https://codecov.io/gh/akares/duckup-py)
 
